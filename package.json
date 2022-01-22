@@ -3,6 +3,7 @@
 	"author": "Fvaour Ogbeide",
 	"description": "A project that measures your body temperature",
 	"keywords": ["freecodecamp", "temperature", "measurement"],
+	"licence": "favourlux",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
