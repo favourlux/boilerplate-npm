@@ -4,6 +4,7 @@
 	"description": "A project that measures your body temperature",
 	"keywords": ["freecodecamp", "temperature", "measurement"],
 	"license": "favourlux",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
