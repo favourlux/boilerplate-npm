@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Fvaour Ogbeide",
+	"description": "A project that measures your body temperature",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
